@@ -1,0 +1,11 @@
+{
+  "html": {
+    "enabled": true
+  },
+  "json": {
+    "enabled": true
+  },
+  "messages": {
+    "enabled": true
+  }
+}
